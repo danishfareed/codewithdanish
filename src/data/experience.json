@@ -1,0 +1,116 @@
+[
+  {
+    "id": "cheil",
+    "company": "Samsung Electronics - Cheil",
+    "role": "Senior Web Developer",
+    "place": "Dubai",
+    "time": "Jul 2022 – Present",
+    "responsibilities": [
+      "Built internal web applications using React, Next.js, and TypeScript, designing reusable component libraries and establishing consistent coding standards.",
+      "Implemented state management with Redux, RTK, and React Query, optimizing data fetching, caching, and overall application performance.",
+      "Built and maintained samsung.com using Adobe Experience Manager (AEM) with a React-based component architecture, integrated Adobe Analytics, and supported e-commerce via SAP Commerce Cloud (Hybris).",
+      "Led CRM communication development for the Samsung MENA region, developed dynamic email templates in Adobe Campaign.",
+      "Built Chrome extensions and Python scripts to automate QA and data extraction across MENA markets.",
+      "Led development teams with an emphasis on accountability, collaborative ideation, and mentorship to foster growth and high-quality delivery."
+    ],
+    "highlights": [
+    "Developed core internal web apps for Samsung MENA region",
+      "35% average open rate on email campaigns",
+      "Eliminated hours of manual work per week through automation"
+    ],
+    "stack": [
+      { "name": "React", "iconSlug": "react" },
+      { "name": "Next.js", "iconSlug": "nextdotjs" },
+      { "name": "TypeScript", "iconSlug": "typescript" },
+      { "name": "Redux/RTK", "iconSlug": "redux" },
+      { "name": "React Query", "iconSlug": "reactquery" },
+      { "name": "AEM", "localImage": "assets/adobe.png" },
+      { "name": "Adobe Campaign", "localImage": "assets/adobe.png" },
+      { "name": "SAP Hybris", "iconSlug": "sap" },
+      { "name": "Python", "iconSlug": "python" },
+      { "name": "Chrome Extensions", "iconSlug": "googlechrome" }
+    ]
+  },
+  {
+    "id": "dnb",
+    "company": "D & B Properties - Real Estate",
+    "role": "Full-Stack Web Developer",
+    "place": "Dubai",
+    "time": "Dec 2021 – Jun 2022",
+    "responsibilities": [
+      "Built responsive web application for luxury holiday homes, implemented reusable UI components with TypeScript interfaces.",
+      "Integrated REST APIs using AXIOS and React Query; managed loading/error states and implemented optimistic UI updates.",
+      "Implemented authentication flows and real-time subscription handlers with Supabase, and built secure API endpoints for user authentication and data validation.",
+      "Integrated Stripe payment gateway with custom validation, connected Zapier for workflow automation across CRM and email services.",
+      "Created GitHub Actions CI/CD pipelines, deployed applications to Cloudflare Pages, Vercel, AWS, Azure, and Digital Ocean with DNS/SSL/CDN configuration."
+    ],
+    "highlights": [
+      "Achieved Lighthouse scores 90+",
+      "Deployed to 5+ cloud platforms",
+      "Full-stack TypeScript implementation"
+    ],
+    "stack": [
+      { "name": "React", "iconSlug": "react" },
+      { "name": "TypeScript", "iconSlug": "typescript" },
+      { "name": "React Query", "iconSlug": "reactquery" },
+      { "name": "Supabase", "iconSlug": "supabase" },
+      { "name": "Stripe", "iconSlug": "stripe" },
+      { "name": "Cloudflare Pages", "iconSlug": "cloudflare" },
+      { "name": "GitHub Actions", "iconSlug": "githubactions" },
+      { "name": "AWS", "localImage": "assets/aws.png" },
+      { "name": "Azure", "localImage": "assets/azure.png" }
+    ]
+  },
+  {
+    "id": "zoe",
+    "company": "Zoe Talent Solutions - Corporate Training",
+    "role": "Web Developer",
+    "place": "Dubai",
+    "time": "Sep 2019 – Nov 2022",
+    "responsibilities": [
+      "Built custom WordPress themes and plugins using PHP, HTML, CSS, JavaScript; created custom post types, shortcodes, and ACF page templates.",
+      "Customized WooCommerce for product display and checkout; integrated payment gateways.",
+      "Optimized websites to 2–3s load time; achieved PageSpeed 80+; implemented on-page SEO, structured data, and internal linking strategies."
+    ],
+    "highlights": [
+      "Achieved PageSpeed 90+ and 2–3s load times",
+      "Custom WordPress + WooCommerce development",
+      "Payment gateway integrations"
+    ],
+    "stack": [
+      { "name": "WordPress", "iconSlug": "wordpress" },
+      { "name": "WooCommerce", "iconSlug": "woocommerce" },
+      { "name": "PHP", "iconSlug": "php" },
+      { "name": "JavaScript", "iconSlug": "javascript" },
+      { "name": "HTML5", "iconSlug": "html5" },
+      { "name": "CSS3", "iconSlug": "csswizardry" },
+      { "name": "SEO", "iconSlug": "google" }
+    ]
+  },
+  {
+    "id": "vdesignu",
+    "company": "vdesignu.com",
+    "role": "Freelance Web Developer",
+    "place": "India",
+    "time": "Dec 2015 – Aug 2019",
+    "responsibilities": [
+      "Built interactive websites with HTML5, CSS3, vanilla JavaScript, developed custom WordPress themes and Shopify stores, implemented jQuery for AJAX interactions.",
+      "Built PHP applications with MySQL, integrated Firebase real-time database and Firestore, designed RESTful APIs with optimized database schemas.",
+      "Conducted SEO audits and optimized site structure, meta tags, and performance."
+    ],
+    "highlights": [
+      "Improved client organic traffic by 150–300%",
+      "Ranked websites for high-intent keywords",
+      "Full-stack PHP + MySQL development"
+    ],
+    "stack": [
+      { "name": "WordPress", "iconSlug": "wordpress" },
+      { "name": "Shopify", "iconSlug": "shopify" },
+      { "name": "PHP", "iconSlug": "php" },
+      { "name": "MySQL", "iconSlug": "mysql" },
+      { "name": "Firebase", "iconSlug": "firebase" },
+      { "name": "jQuery", "iconSlug": "jquery" },
+      { "name": "JavaScript", "iconSlug": "javascript" }
+    ]
+  }
+]

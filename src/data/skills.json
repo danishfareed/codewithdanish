@@ -1,0 +1,89 @@
+[
+  {
+    "category": "Frontend & JavaScript",
+    "skills": [
+      { "name": "React", "iconSlug": "react" },
+      { "name": "Next.js", "iconSlug": "nextdotjs" },
+      { "name": "Astro", "iconSlug": "astro" },
+      { "name": "JavaScript (ES6+)", "iconSlug": "javascript" },
+      { "name": "TypeScript", "iconSlug": "typescript" },
+      { "name": "jQuery", "iconSlug": "jquery" },
+      { "name": "Redux Toolkit", "iconSlug": "redux" },
+      { "name": "React Query", "iconSlug": "reactquery" },
+      { "name": "HTML5", "iconSlug": "html5" },
+      { "name": "CSS3", "iconSlug": "csswizardry" },
+      { "name": "Tailwind CSS", "iconSlug": "tailwindcss" },
+      { "name": "Bootstrap", "iconSlug": "bootstrap" }
+    ]
+  },
+  {
+    "category": "Backend & APIs",
+    "skills": [
+      { "name": "Node.js", "iconSlug": "nodedotjs" },
+      { "name": "PHP", "iconSlug": "php" },
+      { "name": "Python", "iconSlug": "python" },
+      { "name": "REST APIs", "iconSlug": "postman" }
+    ]
+  },
+  {
+    "category": "Databases",
+    "skills": [
+      { "name": "MySQL", "iconSlug": "mysql" },
+      { "name": "PostgreSQL", "iconSlug": "postgresql" },
+      { "name": "Supabase", "iconSlug": "supabase" },
+      { "name": "Firebase", "iconSlug": "firebase" }
+    ]
+  },
+  {
+    "category": "CMS Platforms",
+    "skills": [
+      { "name": "WordPress", "iconSlug": "wordpress" },
+      { "name": "Adobe Experience Manager", "localImage": "assets/adobe.png" },
+      { "name": "Contentful", "iconSlug": "contentful" },
+      { "name": "Strapi", "iconSlug": "strapi" },
+      { "name": "Sanity", "iconSlug": "sanity" },
+      { "name": "Wagtail", "iconSlug": "wagtail" }
+    ]
+  },
+  {
+    "category": "E-Commerce",
+    "skills": [
+      { "name": "Shopify", "iconSlug": "shopify" },
+      { "name": "WooCommerce", "iconSlug": "woocommerce" },
+      { "name": "SAP Hybris", "iconSlug": "sap" }
+    ]
+  },
+  {
+    "category": "Email Development & Marketing",
+    "skills": [
+      { "name": "Adobe Campaign", "localImage": "assets/adobe.png" },
+      { "name": "SAP Hybris", "iconSlug": "sap" },
+      { "name": "Email Templates", "iconSlug": "" },
+      { "name": "HubSpot CRM", "iconSlug": "hubspot" }
+    ]
+  },
+  {
+    "category": "DevOps & Tools",
+    "skills": [
+      { "name": "Git", "iconSlug": "git" },
+      { "name": "GitHub", "iconSlug": "github" },
+      { "name": "GitHub Actions", "iconSlug": "githubactions" },
+      { "name": "Cloudflare Pages", "iconSlug": "cloudflare" },
+      { "name": "Azure", "localImage": "assets/azure.png" },
+      { "name": "AWS", "localImage": "assets/aws.png" },
+      { "name": "Digital Ocean", "iconSlug": "digitalocean" },
+      { "name": "Chrome DevTools", "iconSlug": "googlechrome" },
+      { "name": "JIRA", "iconSlug": "jira" }
+    ]
+  },
+  {
+    "category": "Analytics & SEO",
+    "skills": [
+      { "name": "Google Analytics", "iconSlug": "googleanalytics" },
+      { "name": "Adobe Analytics", "localImage": "assets/adobe.png" },
+      { "name": "Microsoft Clarity", "localImage": "assets/azure.png" },
+      { "name": "SEMrush", "iconSlug": "semrush" },
+      { "name": "Ahrefs", "iconSlug": "" }
+    ]
+  }
+]

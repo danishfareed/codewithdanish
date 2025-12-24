@@ -1,0 +1,19 @@
+{
+  "categories": [
+    { "slug": "performance", "name": "Performance" },
+    { "slug": "nextjs", "name": "Next.js" },
+    { "slug": "seo", "name": "SEO" }
+  ],
+  "posts": [
+    {
+      "slug": "nextjs-static-export-cloudflare-pages",
+      "title": "Deploy Next.js Static Export on Cloudflare Pages",
+      "excerpt": "A clean setup for Next.js static export with Cloudflare Pages and common gotchas.",
+      "date": "2025-12-24",
+      "coverImage": "https://picsum.photos/350/250",
+      "author": { "name": "Danish Mohammed", "role": "Web Developer", "avatar": "/me.jpg" },
+      "categories": ["nextjs", "performance"],
+      "content": "<p>Coming Soon.</p>"
+    }
+  ]
+}

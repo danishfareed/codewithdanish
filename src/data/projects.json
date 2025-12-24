@@ -1,0 +1,209 @@
+[
+  {
+    "id": "codewithdanish",
+    "title": "Code With Danish - Portfolio",
+    "description": "Personal developer portfolio showcasing projects, skills, and experience. Built with Next.js 14, deployed on Cloudflare Pages with optimized performance.",
+    "image": "https://picsum.photos/seed/codewithdanish/350/250",
+    "tech": ["Next.js", "React", "Tailwind CSS", "Cloudflare Pages"],
+    "url": "https://codewithdanish.dev",
+    "category": "Web Development"
+  },
+  {
+    "id": "zafresh",
+    "title": "Zafresh - Fresh Produce Delivery",
+    "description": "Fast, static-first e-commerce website for fresh produce delivery. Built with Astro for optimal performance and SEO.",
+    "image": "https://picsum.photos/seed/zafresh/350/250",
+    "tech": ["Astro", "JavaScript", "CSS"],
+    "url": "https://zafresh.ae",
+    "category": "E-Commerce"
+  },
+  {
+    "id": "tgifridays",
+    "title": "TGI Fridays UAE - Restaurant Website",
+    "description": "Custom WordPress theme for TGI Fridays Middle East. Features location finder, menu integration, and online reservations.",
+    "image": "https://picsum.photos/seed/tgifridays/350/250",
+    "tech": ["WordPress", "PHP", "JavaScript", "Custom Theme"],
+    "url": "https://tgifridaysme.com",
+    "category": "Restaurant & Hospitality"
+  },
+  {
+    "id": "tgifridays-menu",
+    "title": "TGI Fridays Menu Portal",
+    "description": "Interactive React-based digital menu system with filtering, search, and multi-location support.",
+    "image": "https://picsum.photos/seed/tgimenu/350/250",
+    "tech": ["React", "JavaScript", "REST API"],
+    "url": "https://menus.tgifridaysme.com",
+    "category": "Restaurant & Hospitality"
+  },
+  {
+    "id": "adobe-email",
+    "title": "Adobe Email Templates",
+    "description": "Responsive email template system built with vanilla JavaScript. Supports dynamic content and Adobe Campaign integration.",
+    "image": "https://picsum.photos/seed/adobeemail/350/250",
+    "tech": ["JavaScript", "HTML", "CSS", "Email Development"],
+    "url": "https://emailforadobe.pages.dev/",
+    "category": "Email Development"
+  },
+  {
+    "id": "zoetalent",
+    "title": "Zoe Talent Solutions",
+    "description": "Corporate training platform with custom WordPress theme, course management, and WooCommerce integration.",
+    "image": "https://picsum.photos/seed/zoetalent/350/250",
+    "tech": ["WordPress", "WooCommerce", "PHP", "JavaScript"],
+    "url": "https://zoetalentsolutions.com",
+    "category": "Corporate & Training"
+  },
+  {
+    "id": "ramialali",
+    "title": "Rami Al Ali - Fashion Store",
+    "description": "Luxury fashion e-commerce store on Shopify. Custom theme with advanced filtering and checkout customization.",
+    "image": "https://picsum.photos/seed/ramialali/350/250",
+    "tech": ["Shopify", "Liquid", "JavaScript"],
+    "url": "https://ramialali.com",
+    "category": "E-Commerce"
+  },
+  {
+    "id": "hamacdubai",
+    "title": "Hamac Dubai - Fashion Store",
+    "description": "Shopify store for premium swimwear fashion",
+    "image": "https://picsum.photos/seed/hamac/350/250",
+    "tech": ["Shopify", "Liquid", "JavaScript"],
+    "url": "http://hamacdubai.com/",
+    "category": "E-Commerce"
+  },
+  {
+    "id": "lewisjames",
+    "title": "Lewis James - Fashion Store",
+    "description": "High-end fashion e-commerce with custom Shopify theme, product personalization, and secure checkout.",
+    "image": "https://picsum.photos/seed/lewisjames/350/250",
+    "tech": ["Shopify", "Liquid", "JavaScript"],
+    "url": "https://www.lewis-james.com/",
+    "category": "E-Commerce"
+  },
+  {
+    "id": "brettjohnson",
+    "title": "Brett Johnson - Fashion Brand",
+    "description": "Luxury fashion brand Shopify store with custom collections, size guides, and international shipping.",
+    "image": "https://picsum.photos/seed/brettjohnson/350/250",
+    "tech": ["Shopify", "Liquid", "JavaScript"],
+    "url": "https://brettjohnson.co/",
+    "category": "E-Commerce"
+  },
+  {
+    "id": "princefilms",
+    "title": "Prince Films London",
+    "description": "Film production company website with portfolio showcase, video integration, and contact forms.",
+    "image": "https://picsum.photos/seed/princefilms/350/250",
+    "tech": ["WordPress", "PHP", "JavaScript"],
+    "url": "https://princefilms.london",
+    "category": "Creative & Media"
+  },
+  {
+    "id": "triuneme",
+    "title": "Triune ME - B2B Trading Firm",
+    "description": "Custom WordPress website for B2B Trading firm with service pages, Product Pages, Brand Pages, and lead generation.",
+    "image": "https://picsum.photos/seed/triuneme/350/250",
+    "tech": ["WordPress", "Custom Theme", "PHP", "JavaScript"],
+    "url": "https://triuneme.com",
+    "category": "Corporate & Business"
+  },
+  {
+    "id": "skinexperts",
+    "title": "Skin Experts UAE",
+    "description": "Medical aesthetics clinic website with booking system, treatment catalog, and before/after gallery.",
+    "image": "https://picsum.photos/seed/skinexperts/350/250",
+    "tech": ["WordPress", "Custom Theme", "PHP", "JavaScript"],
+    "url": "https://skinexperts.ae/",
+    "category": "Healthcare & Medical"
+  },
+  {
+    "id": "tamanimarina",
+    "title": "Tamani Marina Hotel",
+    "description": "Hotel booking website integrated with Amadeus Travelclick. Real-time availability and reservation system.",
+    "image": "https://picsum.photos/seed/tamanimarina/350/250",
+    "tech": ["Amadeus Travelclick", "JavaScript", "API Integration"],
+    "url": "https://www.tamanimarina.ae/",
+    "category": "Restaurant & Hospitality"
+  },
+  {
+    "id": "beourguest",
+    "title": "Be Our Guest - Hospitality Platform",
+    "description": "Full-stack hospitality management system with React frontend and Django backend. Booking management and analytics.",
+    "image": "https://picsum.photos/seed/beourguest/350/250",
+    "tech": ["React", "TypeScript", "Django", "Python"],
+    "url": "https://beourguest.ae",
+    "category": "Restaurant & Hospitality"
+  },
+  {
+    "id": "soulbeach",
+    "title": "Soul Beach Dubai",
+    "description": "Beach club and restaurant website with event calendar, menu showcase, and online reservations.",
+    "image": "https://picsum.photos/seed/soulbeach/350/250",
+    "tech": ["WordPress", "PHP", "JavaScript"],
+    "url": "https://soulbeachdxb.com",
+    "category": "Restaurant & Hospitality"
+  },
+  {
+    "id": "mycorestudio",
+    "title": "My Core Studio - Fitness Center",
+    "description": "Fitness studio website with class schedules, membership plans, and online booking system.",
+    "image": "https://picsum.photos/seed/mycorestudio/350/250",
+    "tech": ["WordPress", "PHP", "JavaScript"],
+    "url": "https://mycorestudio.com",
+    "category": "Health & Fitness"
+  },
+  {
+    "id": "winhycare",
+    "title": "WinHyCare - Medical Equipment",
+    "description": "Medical and laboratory equipment supplier website. Product catalog with specifications and inquiry system.",
+    "image": "https://picsum.photos/seed/winhycare/350/250",
+    "tech": ["WordPress", "WooCommerce", "PHP"],
+    "url": "https://winhycare.com",
+    "category": "Healthcare & Medical"
+  },
+  {
+    "id": "visualcontrast",
+    "title": "Visual Contrast - Photography",
+    "description": "Photography portfolio website with gallery management, client proofing, and booking system.",
+    "image": "https://picsum.photos/seed/visualcontrast/350/250",
+    "tech": ["WordPress", "PHP", "JavaScript"],
+    "url": "https://visualcontrast.com.au",
+    "category": "Creative & Media"
+  },
+  {
+    "id": "exmouthescape",
+    "title": "Exmouth Escape Resort",
+    "description": "Australian resort website with room booking, activity scheduling, and guest services.",
+    "image": "https://picsum.photos/seed/exmouthescape/350/250",
+    "tech": ["WordPress", "PHP", "JavaScript"],
+    "url": "https://exmouthescaperesort.com.au",
+    "category": "Restaurant & Hospitality"
+  },
+  {
+    "id": "cashforjunkcars-chicago",
+    "title": "Cash for Junk Cars Chicago",
+    "description": "Lead generation website for junk car buying service with instant quote calculator and form automation.",
+    "image": "https://picsum.photos/seed/junkcars1/350/250",
+    "tech": ["WordPress", "PHP", "JavaScript"],
+    "url": "https://cashforjunkcarschicago-il.com",
+    "category": "Automotive"
+  },
+  {
+    "id": "topdollarjunkcars",
+    "title": "Top Dollar Junk Cars",
+    "description": "Auto salvage website with price estimation tool, location-based services, and lead capture forms.",
+    "image": "https://picsum.photos/seed/junkcars2/350/250",
+    "tech": ["WordPress", "PHP", "JavaScript"],
+    "url": "https://topdollarjunkcars.co",
+    "category": "Automotive"
+  },
+  {
+    "id": "junkcarsguys",
+    "title": "Junk Cars Guys",
+    "description": "Junk car removal service website with instant quotes, online scheduling, and payment integration.",
+    "image": "https://picsum.photos/seed/junkcars3/350/250",
+    "tech": ["WordPress", "PHP", "JavaScript"],
+    "url": "https://junkcarsguys.com",
+    "category": "Automotive"
+  }
+]
