@@ -1,4 +1,4 @@
-text
+
 # CodeWithDanish.dev – Developer Portfolio
 
 A modern, fast, and animated developer portfolio for **Danish Mohammed**, showcasing real-world projects built with React, Next.js, Astro, WordPress, Shopify, and more. The site focuses on performance, clean UI, and a developer‑first experience.
